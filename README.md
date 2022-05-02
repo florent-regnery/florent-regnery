@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @florent
-- 👀 I’m interested in learning web coding
+- 👋 Hi, I’m Florent
+- 👀 I’m interested to learn web coding
 - 🌱 I’m currently learning HTML/CSS PHP/JS
 - 💞️ I’m looking to collaborate on a work-study project
 - 📫 How to reach me : florent.regnery@gmail.com
